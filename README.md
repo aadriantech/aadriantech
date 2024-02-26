@@ -55,8 +55,6 @@ Feel free to browse through my repositories and don't hesitate to reach out if y
 - Email: [adrian.adriano.tech@gmail.com](mailto:adrian.adriano.tech@gmail.com)
 - LinkedIn: [adrianadriano](https://www.linkedin.com/in/adrian-adriano-aa732480/)
 
-"One difference between a smart programmer and a professional programmer is that the
-professional understands that clarity is king."
 Let's embark on a journey of coding mastery, continuous learning, and collective growth!
 
 ### Languages & Tools
