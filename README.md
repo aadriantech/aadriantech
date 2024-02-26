@@ -1,6 +1,6 @@
 ### Greetings, I'm Adrian Adriano 👋
 
-As a seasoned Engineering Director and Technical Lead, my expertise spans the intricate landscape of software and infrastructure engineering, where I've championed the integration of cutting-edge technology stacks to develop, deploy, and refine high-performing systems. My professional path has provided me with deep insights into a variety of programming languages and frameworks, including Golang, .NET, PHP, alongside frontend technologies such as Vue and Angular. I am a fervent proponent of CI/CD methodologies and have been at the forefront of transitioning legacy systems to a microservices architecture, significantly enhancing both operational agility and system robustness.
+As a seasoned Engineering Director and Technical Lead, my expertise spans the intricate landscape of software and infrastructure engineering, where I've championed the integration of cutting-edge technology stacks to develop, deploy, and refine high-performing systems. My professional path has provided me with deep insights into a variety of programming languages and frameworks, including Golang, .NET technologies, PHP, Python, NodeJS alongside frontend technologies such as Vue, Aurelia and Angular. I am a fervent proponent of CI/CD methodologies and have been at the forefront of transitioning legacy systems to a microservices architecture, significantly enhancing both operational agility and system robustness.
 
 My role as a Tech Lead and Director of Engineering is underpinned by a deep-seated passion for both software and infrastructure engineering, where I employ a strategic fusion of technical acumen and innovative thinking to solve complex problems.
 
@@ -62,10 +62,12 @@ Let's embark on a journey of coding mastery, continuous learning, and collective
 ### Languages & Tools
 
 ![Golang](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
 ![Vue](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
 ![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)
+![Aurelia](https://www.vectorlogo.zone/logos/aureliaio/aureliaio-ar21.svg)
 ![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
@@ -75,15 +77,15 @@ Let's embark on a journey of coding mastery, continuous learning, and collective
 ![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)
 ![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-![Docker Compose](https://raw.githubusercontent.com/github/explore/92ad94b82139838b94e2fa7ffc8b461315d6a452/topics/docker-compose/docker-compose.png)
 ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)
 ![Helmcharts](https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg)
 ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)
-![Github Actions](https://techblog.asia-quest.jp/hubfs/TechBlog/202210-02github-thum.png)
-![Bitbucket Pipelines](https://miro.medium.com/v2/resize:fit:1157/1*tq3p0Fxst1czDFpxgvb48Q.png)
+![Github Actions](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+![Bitbucket Pipelines](https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg)
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Bitbucket](https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg)
 ![ArgoCD](https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg)
-![gRPC](https://grpc.io/img/logos/grpc-logo.png)
+![gRPC](https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg)
 ![Azure Functions](https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg)
 ![AWS Lambda](https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg)
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
